@@ -1,0 +1,12 @@
+1) Python : Python is a hight level,interpreter and dynamic language.
+         And python is mostly used in AI and Machine learning.
+
+2) Interpreter : Interpreter reads code and execute the code line by line
+                It converts hight level language into machine code.
+
+3) Dynamic : In this method, we don't need to specify data types before 
+             variable it done this process automatically in run time.
+
+4) Variable: Variable is like a container that can store values.
+
+5) Type conversion: It is used to convert one data type to another data type
